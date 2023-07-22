@@ -23,7 +23,7 @@ scanf("%s", &names);
 printf("Enter Age : ");
 scanf("%d", &ages);
 
-printf("Your Name is %s\nYour age is %d\n", names, ages);
+printf("Welcome %s\nYou're %d years old\n", names, ages);
 
 //Generate an ID number for user that starts with the last two digits of the year registered 
 IDnumber();
