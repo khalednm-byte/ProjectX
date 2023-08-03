@@ -10,6 +10,7 @@ void dataBase(int age, char names[100], FILE *fptr);
 
 int main(){
 
+    
     char names[100];
     int ages;
     FILE *fptr; //file to hold all system information
