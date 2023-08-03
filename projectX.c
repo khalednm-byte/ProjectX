@@ -6,11 +6,10 @@
 
 int IDnumber(FILE *fptr);
 void dataBase(int age, char names[100], FILE *fptr);
-//FILE *fptr;
+
 
 int main(){
 
-    //int rand = 10000;
     char names[100];
     int ages;
     FILE *fptr; //file to hold all system information
